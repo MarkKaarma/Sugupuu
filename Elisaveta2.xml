@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inimesed>
+  <inimene synn="1926">
+    <nimi>Elisaveta II</nimi>
+    <titul>Princes</titul>
+    <lapsed>
+      <inimene synn="1948">
+        <nimi>Charles</nimi>
+        <titul>Prince</titul>
+        <lapsed>
+          <inimene synn="1984">
+            <nimi>Garry</nimi>
+            <titul>Prince</titul>
+          </inimene>
+          <inimene synn="1982">
+            <nimi>William</nimi>
+            <titul>Prince</titul>
+          </inimene>
+        </lapsed>
+      </inimene>
+      <inimene synn="1960">
+        <nimi>Andrew</nimi>
+        <titul>Prince</titul>
+        <lapsed>
+          <inimene synn="1988">
+            <nimi>Beatrice</nimi>
+            <titul>Princes</titul>
+          </inimene>
+          <inimene synn="1990">
+            <nimi>Eugenie</nimi>
+            <titul>Prince</titul>
+          </inimene>
+        </lapsed>
+      </inimene>
+      <inimene synn="1950">
+        <nimi>Anna</nimi>
+        <titul>Princes</titul>
+        <lapsed>
+          <inimene synn="1977">
+            <nimi>Peter Mark Andrew</nimi>
+            <titul>Prince</titul>
+          </inimene>
+          <inimene synn="1981">
+            <titul>Lady</titul>
+          </inimene>
+        </lapsed>
+      </inimene>
+      <inimene synn="1964">
+        <nimi>Edward</nimi>
+        <titul>Lord</titul>
+        <lapsed>
+          <inimene synn="2007">
+            <nimi>James</nimi>
+            <titul>Lord</titul>
+          </inimene>
+        </lapsed>
+      </inimene>
+    </lapsed>
+  </inimene>
+</inimesed>
